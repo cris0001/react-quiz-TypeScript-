@@ -1,1 +1,2 @@
-pierwszy projekt z użyciem TS
+
+https://react-ts-quiz-cris0001.netlify.app
